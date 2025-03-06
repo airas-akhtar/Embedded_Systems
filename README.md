@@ -1,2 +1,2 @@
-# Verilog_Practice
-Brushing up my Verilog skills
+# Embedded_Systems
+Showcasing my embedded skills
