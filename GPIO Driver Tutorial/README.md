@@ -1,4 +1,4 @@
-# GPIO driver Tutorial (Example ADP5520)
+# GPIO driver walkthrough (Example ADP5520)
 
 This document details how a GPIO driver is constructed for Linux. We will not go over GPIO pins that can handle IRQ as well in this tutorial.
 
